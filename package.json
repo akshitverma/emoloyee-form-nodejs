@@ -1,0 +1,16 @@
+{
+  "name": "nodeanujg",
+  "version": "1.0.0",
+  "description": "Node Assignment by Ankit Kumar Singh",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankit Kumar Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "body-parser": "^1.15.0"
+  }
+}
